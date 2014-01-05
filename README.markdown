@@ -5,8 +5,8 @@ Hosted at [userstyles.org](http://userstyles.org/styles/85318)
 
 ### Before & After
 
- [ ![before](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/before_th.png) ](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/before.png)
+ [ ![before](http://raw.github.com/Pmmlabs/MailRuBlack/master/screenshots/before_th.png) ](http://raw.github.com/Pmmlabs/MailRuBlack/master/screenshots/before.png)
 
- [ ![after](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/after_th.png) ](http://raw.github.com/Pmmlabs/GooglePlayNightFlight/master/screenshots/after.png)
+ [ ![after](http://raw.github.com/Pmmlabs/MailRuBlack/master/screenshots/after_th.png) ](http://raw.github.com/Pmmlabs/MailRuBlack/master/screenshots/after.png)
  
 You are welcome to contribute!
